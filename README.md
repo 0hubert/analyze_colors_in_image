@@ -14,6 +14,7 @@ Main Application (app.py):
 -   Processes images and returns color information in both RGB and HEX formats
 -   Includes proper error handling and file validation
 -   Automatically cleans up uploaded files after processing
+  
 Frontend (templates/index.html):
 -   A modern, responsive design with a clean interface
 -   Drag-and-drop file upload support
